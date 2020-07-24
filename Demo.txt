@@ -1,1 +1,3 @@
 1. This is my first file
+2. I learned so many things 
+3. I know git now
